@@ -1,3 +1,4 @@
+
 # Sponge mats
 Water absorbing mats to keep rainwater in the city for better heat, flood and energy management.
 
@@ -19,7 +20,14 @@ Sponge mats leverages inherent properties on Nike Grind materials to absorb and 
 
 # Customer base
 
-# Apternative applications
+# Alternative applications
+
+## Accoustic panels and ceilings
+
+## Hyrdoponic layer for gardening and agronomy.
+
+## Walkable surfaces
+
 
 # Sales and marketing
 
