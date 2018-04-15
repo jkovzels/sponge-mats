@@ -13,3 +13,13 @@ Sponge mats is a viable, maintanance free solution, resrotes natural processes b
 Sponge mats are produced on 99% pecent on recycled Nike Grind materials.
 Sponge mats leverages inherent properties on Nike Grind materials to absorb and keep water and requires close to zero energy consumption to build.
 
+# Production technology
+
+# Prtotyping and testing
+
+# Customer base
+
+# Apternative applications
+
+# Sales and marketing
+
