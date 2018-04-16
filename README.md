@@ -82,4 +82,4 @@ We will seek partnerships to deploy and test with local businesses through gover
 
 We will also reach and work together with city architects to improve the design and incorporate the mats into upcoming city improvement projects.
 
-At the same time starting in Germany poses the chalange to navigate fire safety and constructions norms and regulations. To mitigate this challane we will start dialog with city architects and authorities at the early stage of the project development. 
+At the same time starting in Germany poses the chalange to navigate German fire safety and constructions regulations with can be cumbersome and time consuming. To mitigate this challane we will start dialog with city architects and authorities at the early stage of the project development. 
