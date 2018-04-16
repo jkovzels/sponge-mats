@@ -43,6 +43,15 @@ Next R&D steps include:
 4. Find 2 identical buildings (garage, hangar, warehouse) to deploy mats on one of them to collect data on the changes in airconditioning and air temperatures in the working areas.
 
 # Customer base
+### Primary application
+
+1. Factories, warehouses, or any number businesses operating from flat roof buildings and spending money on air conditioning of premises.
+2. Residential communities making building more energy efficient and improving living conditions.
+3. Walkable modification can be used in public spaces and on playgrounds.
+
+### Alternative applications
+1. Sealed in fabric can be used to alter soil mechanics in landscaping and agriculture
+2. Office workers when used as acoustic panels 
 
 # Alternative applications
 
