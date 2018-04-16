@@ -30,8 +30,6 @@ Core componenent of mat is the mesh of variety of Nike Grind materils. The main 
 External waterproof isolating layer of the mat is likely will be produces out of non-woven fabric and rubber/silicon/elastomer and foil. The same materials used in construction to waterproof the roofs. Isolation layer can be omited if the foor is already waterproofed and dtainage system can be altered to allow 6-8 cm of water to retain of the roof at anytime.
 
 
-
-
 # Prtotyping and testing
 
 We already had an opportunity to work with and build Protorype 0 out of Nike Grind materials during the [workshop in Berlin](https://www.eventbrite.de/e/reuse-remake-recycle-a-chat-with-leaders-in-circular-economy-tickets-44645786750#). This prototyping phase helped us better properties of maerials and adjust the list of materils we are planning to use.
@@ -47,7 +45,7 @@ Next R&D steps include:
 
 1. Factories, warehouses, or any number businesses operating from flat roof buildings and spending money on air conditioning of premises.
 2. Residential communities making building more energy efficient and improving living conditions.
-3. Walkable modification can be used in public spaces and on playgrounds.
+3. [Walkable modification](#walkable-surfaces) can be used in public spaces and on playgrounds.
 
 ### Alternative applications
 1. Sealed in fabric can be used to alter soil mechanics in landscaping and agriculture
