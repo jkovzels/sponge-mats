@@ -1,5 +1,7 @@
 
 
+
+
 # Sponge mats
 Water absorbing mats to keep rainwater in the city for better heat, flood and energy management.
 
@@ -66,3 +68,18 @@ Redusing the load on drainage system
 
 # Sales and marketing
 
+Berlin is one of the best possible places to start and scale business like Sponge mats.
+
+Germans are ecologically conscious and willing to make modest sacrifices in the name of energy independence and climate protection. Germany is one of the world reladers in recycling. 
+
+Electrifity prices and [energy efficiency requesrments](
+http://www.greenbuildingadvisor.com/blogs/dept/guest-blogs/german-building-codes-keep-ratcheting) for new and existing building push building owners operators to seek for new ways to leave smaller energy footpring.
+
+Berlin has established social entrepreneurship networks and substantial amount of socially responsible and environmentally conscious companies. 
+
+
+We will seek partnerships to deploy and test with local businesses through governmental organizations and social impact communities, such as circular economy hub [CRCLR House]((https://crclr.org/about/circular-economy).
+
+We will also reach and work together with city architects to improve the design and incorporate the mats into upcoming city improvement projects.
+
+At the same time starting in Germany poses the chalange to navigate fire safety and constructions norms and regulations. To mitigate this challane we will start dialog with city architects and authorities at the early stage of the project development. 
