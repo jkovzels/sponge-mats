@@ -39,7 +39,7 @@ Next R&D steps include:
 3.	Deploy first prototype and measurement setup. The goal of this step is to retrofit part of the roof of selected building with Sponge mats and the array of temperature sensors on the mat, beneath the mat, on the roof from inside etc. to measure the effect.
 4.	Find 2 identical buildings (garage, hangar, warehouse) to deploy mats on one of them to collect data on the changes in air-conditioning and air temperatures in the working areas.
 
-Read more about prototyping phases [here](./Prototyping-and-testing.md)
+Read more about prototyping phases [here](./prototyping-and-testing.md)
 
 # Customer base
 ### Primary application
