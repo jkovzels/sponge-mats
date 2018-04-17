@@ -30,15 +30,16 @@ Core componenent of mat is the mesh of variety of Nike Grind materils. The main 
 External waterproof isolating layer of the mat is likely will be produces out of non-woven fabric and rubber/silicon/elastomer and foil. The same materials used in construction to waterproof the roofs. Isolation layer can be omited if the foor is already waterproofed and dtainage system can be altered to allow 6-8 cm of water to retain of the roof at anytime.
 
 
-# Prtotyping and testing
+# Prototyping and testing
 
-We already had an opportunity to work with and build Protorype 0 out of Nike Grind materials during the [workshop in Berlin](https://www.eventbrite.de/e/reuse-remake-recycle-a-chat-with-leaders-in-circular-economy-tickets-44645786750#). This prototyping phase helped us better properties of maerials and adjust the list of materils we are planning to use.
+We already had an opportunity to work with and build Prototype 0 out of Nike Grind materials during the [workshop in Berlin](https://www.eventbrite.de/e/reuse-remake-recycle-a-chat-with-leaders-in-circular-economy-tickets-44645786750#). This prototyping phase helped us better properties of materials and adjust the list of materials we are planning to use.
+Next R&D steps include:
+1.	Find and source cost-efficient adhesive and process to bind the pieces of raw materials into the mesh to form core layer.
+2.	Develop process to form external isolating layer.
+3.	Deploy first prototype and measurement setup. The goal of this step is to retrofit part of the roof of selected building with Sponge mats and the array of temperature sensors on the mat, beneath the mat, on the roof from inside etc. to measure the effect.
+4.	Find 2 identical buildings (garage, hangar, warehouse) to deploy mats on one of them to collect data on the changes in air-conditioning and air temperatures in the working areas.
 
-Next R&D steps include: 
-1. Find cost-efficient adhesive and process to bind the pieces of raw materials into the mesh to form core layer.
-2. Develop process to form exernal isolating layer
-3. Deploy fitst prototype and measurement setup. The goal of this step is to retrofit part of the roof of selected building with Sponge mats and the array of temperature sensors on the mat, beneth the mat, on the roof from inside etc to measure the the effect.
-4. Find 2 identical buildings (garage, hangar, warehouse) to deploy mats on one of them to collect data on the changes in airconditioning and air temperatures in the working areas.
+Read more about prototyping phases [here](./Prototyping-and-testing.md)
 
 # Customer base
 ### Primary application
