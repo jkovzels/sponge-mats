@@ -16,13 +16,14 @@ For this test the plan is to build 5x5 meter and 5-8 thick mat and deploy on the
 Roof size should be at least 6 by 12 meter. Flat with close to 0 degree slope. Ideally no other buildings should cast shadow on the test area. Access to the ceiling to deploy temperature ceiling temperature sensors is required.
 
 ### Materials and equipment:
-#. Nike Grind. Composition and amount TBD
-#. Portable concrete mixer.
-#. Adhesive for core layer.
-#. Non-wowen fabric and liquid rubber or similar elastomer to form external waterproof layer.
-#. White reflective paint for mat and white roof control area.
-#. Timber for formwork.
-#. Set of tools.
+1. Nike Grind. Composition and amount TBD
+2. Portable concrete mixer.
+3. Adhesive for core layer.
+4. Non-wowen fabric and liquid rubber or similar elastomer to form external waterproof layer.
+5. White reflective paint for mat and white roof control area.
+6. Timber for formwork.
+7. [Temperature sensors](data-loggers.md)
+8. Set of tools.
 
 ## Prototype 2
 
