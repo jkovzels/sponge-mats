@@ -7,6 +7,12 @@
 http://newscenter.lbl.gov/2014/01/21/white-green-or-black-roofs-berkeley-lab-report-compares-economic-payoffs/
 
 
+> Without due diligence, it’s no surprise that cool roofs have begun to experience problems. A study done at Stanford University shows that white roofs may actually increase, not decrease, the earth’s temperature. White roof membranes have high reflectivity that directs heat upward into the atmosphere and then mixes with black and brown soot particles, which are thought to contribute to global warming.
+
+https://news.stanford.edu/news/2011/october/urban-heat-islands-101911.html
+https://www.huffingtonpost.com/samir-ibrahim/white-roofs-green-myth_b_2901288.html
+
+
 
 >Starkweather Roofing installed data loggers on the new white roof of the Nationwide Scottsdale Insurance Company and on the traditional roof of the building next door in order to confirm the energy efficiency of white versus non-white roofs. 
 
