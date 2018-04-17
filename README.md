@@ -1,30 +1,28 @@
-
-
-
-
 # Sponge mats
 Water absorbing mats to keep rainwater in the city for better heat, flood and energy management.
 
+Sponge City Mats is a way to retrofit existing rooftops to facilitate natural evaporative cooling effect. Sponge City Mats absorb and keep rainwater imitating natural environment where water is soaked up by soil and vegetation.
 
-We all experienced how cities can be scoarching hot, becoming much warmer then surronding rural areas. [This phenomenon occures](https://en.wikipedia.org/wiki/Urban_heat_island) in part due to unnnatural way how cities manage rainwater.
+We all experienced how cities can be scorching hot at summer, becoming much warmer then surrounding rural areas. [This phenomenon occurs](https://en.wikipedia.org/wiki/Urban_heat_island) in part due to unnatural way how cities manage rainwater.
 
-In the nature, rainwater is absorbed by soil and vegitation, and when tepmerature rises, water evaporates producing natural cooling effect.
+In the nature, rainwater is absorbed by soil and vegetation, and when temperature rises, water evaporates producing natural cooling effect.
 
 Unlike in natural environments, rainwater in the cities is historically dumped into pipes and drainage system breaking natural cycle and cooling.
 
-Sponge mats are aimed to resrote natural processes by absorbing rainwater and allowing it to evaporate when temperature raises.
+Sponge mats are aimed to restore natural processes by absorbing rainwater and allowing it to evaporate when temperature raises.
 
 Sponge mats is a viable alternative to reflective white roofs and green roofs.
 
 White roofs are [found to be effective](https://www.sciencedirect.com/science/article/pii/S0378778813007652?via%3Dihub) in reflecting sunlight and cool down the surface of the roof. Sponge mats when painted with reflective white coating provide the same benefits, and besides that, leverage [evaporative cooling effect](https://www.designingbuildings.co.uk/wiki/Evaporative_cooling).  
 
-Green roofs, roofs with soil and vegetation provides benefits of natural cooling but intails high intallation and maitanance cost and can be unefficient in water deprived regions. 
+Green roofs, roofs with soil and vegetation provides benefits of natural cooling but entails high installation and maintenance cost and can be inefficient in water deprived regions. 
 
-Sponge mats leverage benefits of both white and green roofs and is cost-efficient and low-maitanance solution.  
+Sponge mats leverage benefits of both white and green roofs and is cost-efficient and low-maintenance solution.  
 
 
-Sponge mats are produced on 99% pecent on recycled Nike Grind materials.
+Sponge mats are produced on 99% percent on recycled Nike Grind materials.
 Sponge mats leverages inherent properties on Nike Grind materials to absorb and keep water and requires close to zero energy consumption to build.
+
 
 # Manufacturing technology
 Core componenent of mat is the mesh of variety of Nike Grind materils. The main purpose of the mesh is to retain the rainwater and protects it from wind and direct sunligt (to slow down the drying out). Mix of injection scraps, flashing and textile scraps gives exacply the properties reqiered without much energy or materil heavy processing. 
