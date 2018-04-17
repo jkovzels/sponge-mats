@@ -1,4 +1,4 @@
-# Prototyping and testing plan
+ # Prototyping and testing plan
 
 Short term goals:
 1. Select and source cost-efficient adhesive and process to bind the pieces of raw materials into the mesh to form core layer.
@@ -27,5 +27,5 @@ Roof size should be at least 6 by 12 meter. Flat with close to 0 degree slope. I
 
 ## Prototype 2
 
-Large scale test aimed to collect real impact on energy efficiency and working condiotions of the building. Test should be conducted using 2 identical buildings, one to retrofit, another for control.
+Large scale test aimed to collect real impact on energy efficiency and working condiotions of the building. Test should be conducted using 2 identical buildings, one to retrofit, another for control. The goal is to reproduce [this study](http://www.onsetcomp.com/content/cool-roof-case-study-are-white-roofs-cooler-and-more-energy-efficient-non-white-roofs) with Sponge Mats
 
