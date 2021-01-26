@@ -1,6 +1,8 @@
 # Sponge mats
 ### Water absorbing mats to keep rainwater in the city for better heat, flood and energy management.
 
+![logo](images/logo.png)
+
 Sponge City Mats is a way to retrofit existing rooftops to facilitate natural evaporative cooling effect. Sponge City Mats absorb and keep rainwater imitating natural environment where water is soaked up by soil and vegetation.
 
 We all experienced how cities can be scorching hot at summer, becoming much warmer then surrounding rural areas. [This phenomenon occurs](https://en.wikipedia.org/wiki/Urban_heat_island) in part due to unnatural way how cities manage rainwater.
