@@ -25,6 +25,7 @@ Sponge mats leverage benefits of both white and green roofs and is cost-efficien
 Sponge mats are produced on 99% percent on recycled Nike Grind materials.
 Sponge mats leverages inherent properties on Nike Grind materials to absorb and keep water and requires close to zero energy consumption to build.
 
+![mat_schema](images/mat_schema.jpg)
 
 # Manufacturing technology
 Core componenent of mat is the mesh of variety of Nike Grind materils. The main purpose of the mesh is to retain the rainwater and protects it from wind and direct sunligt (to slow down the drying out). Mix of injection scraps, flashing and textile scraps gives exacply the properties reqiered without much energy or materil heavy processing. 
@@ -33,6 +34,8 @@ External waterproof isolating layer of the mat is likely will be produces out of
 
 
 # Prototyping and testing
+
+
 
 We already had an opportunity to work with and build Prototype 0 out of Nike Grind materials during the [workshop in Berlin](https://www.eventbrite.de/e/reuse-remake-recycle-a-chat-with-leaders-in-circular-economy-tickets-44645786750#). This prototyping phase helped us better properties of materials and adjust the list of materials we are planning to use.
 Next R&D steps include:
